@@ -1,5 +1,4 @@
 # Assignment-5-Data-Structures-and-Strings-in-Python
-# Python Tasks Repository
 
 ## Description
 This repository contains two Python scripts performing basic operations with lists and dictionaries.
